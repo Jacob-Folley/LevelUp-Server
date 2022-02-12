@@ -1,0 +1,16 @@
+
+
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Wizards vs Humans",
+            "date": "2012-04-23",
+            "time": "5:00",
+            "organizer": 1
+        }
+    }
+    
+]
